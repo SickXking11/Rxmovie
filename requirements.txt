@@ -1,0 +1,11 @@
+pyrogram==2.0.30
+tgcrypto
+pymongo
+dnspython 
+motor
+marshmallow
+umongo
+requests
+bs4
+git+https://github.com/cinemagoer/cinemagoer
+aiohttp==3.8.1
